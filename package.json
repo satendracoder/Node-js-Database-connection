@@ -1,0 +1,11 @@
+{
+  "name": "code-lekhak-api",
+  "version": "1.0.0",
+  "description": "api for lms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Satendra Rajput",
+  "license": "ISC"
+}
